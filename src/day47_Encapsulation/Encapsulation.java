@@ -1,0 +1,11 @@
+package day47_Encapsulation;
+
+public class Encapsulation {
+
+    private long ssn = 1234567;
+
+    public long getSSN(){
+        return ssn;
+    }
+
+}
