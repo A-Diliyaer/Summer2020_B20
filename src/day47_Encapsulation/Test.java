@@ -17,7 +17,7 @@ public class Test {
 
 
         Encapsulation obj1 = new Encapsulation();
-        System.out.println(obj1.getSSN());
+        System.out.println(obj1.getSsn());
 
     }
 }
